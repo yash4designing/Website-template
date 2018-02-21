@@ -1,0 +1,22 @@
+.about {
+    padding: 30px;
+}
+
+.tz-item-more-details-style-2 span {
+    border: 1px solid;
+    color: rgb(68, 68, 68);
+    display: inline-block;
+    line-height: 16px;
+    padding: 9px 12px;
+    position: relative;
+    z-index: 99;
+    margin-top: 10px;
+}
+
+.tz-item-more-details-style-2 span i {
+    padding-right: 15px;
+}
+
+.tj {
+    text-align: justify;
+}
